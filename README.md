@@ -30,6 +30,6 @@
 
 <div>
   <a href="https://gamejolt.com" target="_blank">
-  <img src="https://img.shields.io/badge/Game%20Jolt-00CC00?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Game Jolt">
+  <img src="https://img.shields.io/badge/Game%20Jolt-0eb00e?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Game Jolt">
 </a>
 </div>
