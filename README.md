@@ -26,10 +26,18 @@
   <a href="https://www.instagram.com/endrew_arnold_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<h2>Play some of my games on:</h2>
+<h2>My games</h2>
 
 <div>
-  <a href="https://gamejolt.com/@Vandarke/games" target="_blank">
-  <img src="https://img.shields.io/badge/Game%20Jolt-0eb00e?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Game Jolt">
+  <h4>Pixel Sphere:</h4>
+  <a href="[https://gamejolt.com/@Vandarke/games" target="_blank](https://gamejolt.com/games/vandarke_Pixelsphere/835724)">
+  <img src="https://img.shields.io/badge/Game%20Jolt-0eb00e?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Pixel Sphere - Game Jolt">
+</a>
+</div>
+
+<div>
+  <h4>Snake Power (group project):</h4>
+  <a href="https://github.com/Haynebr/Projeto-Snake-/tree/Endrew">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="Snake Power - GitHub">
 </a>
 </div>
