@@ -30,7 +30,7 @@
 
 <div>
   <h4>Pixel Sphere:</h4>
-  <a href="[https://gamejolt.com/@Vandarke/games" target="_blank](https://gamejolt.com/games/vandarke_Pixelsphere/835724)">
+  <a href="https://gamejolt.com/games/vandarke_Pixelsphere/835724">
   <img src="https://img.shields.io/badge/Game%20Jolt-0eb00e?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Pixel Sphere - Game Jolt">
 </a>
 </div>
